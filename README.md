@@ -21,14 +21,6 @@ The script comprises various functions and events, each serving a specific purpo
 `-BJCore Framework
 -mythic_progbar`
 
-### Initialization
-
-The script starts by initializing some variables and setting up a few essential things. These include spawning a start NPC and a dog NPC.
-
-### Dog Interactions
-
-The script allows players to interact with a dog NPC. Players can "pet" the dog, which triggers a progress bar and provides small rewards(which can be changed) while they wait for the info from the boss.
-
 ### Car Heist
 
 The main part of the script revolves around car heist scenarios. Players can receive job assignments of different levels (A, B, and C). Each job involves delivering a specific vehicle to a designated location.
@@ -40,6 +32,10 @@ The main part of the script revolves around car heist scenarios. Players can rec
 Players can also scrap vehicles to earn rewards (which can be changed):
 
 - `kuf-carheist:ScrapVehicle`: Allows players to scrap a vehicle.
+
+### Dog Interactions
+
+The script allows players to interact with a dog NPC. Players can "pet" the dog, which triggers a progress bar and provides small rewards(which can be changed) while they wait for the info from the boss.
 
 ### Job Progress
 
