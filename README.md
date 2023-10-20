@@ -7,7 +7,7 @@ This script is designed for a car heist scenario in FiveM. It handles various as
 The script comprises various functions and events, each serving a specific purpose within the car heist scenario.
 
 ## Installation Steps
-
+```
 1. **Download**: 
    - Get the Car Heist Script resource folder.
 
@@ -17,7 +17,7 @@ The script comprises various functions and events, each serving a specific purpo
 3. **Configuration and Restart**: 
    - Configure the script as needed, and add it to your `server.cfg` file using `ensure kuf-carheist`.
    - Restart your FiveM server to apply the changes.
-
+```
 ## Mandatory Requirements
 - BJCore Framework
 - mythic_progbar
