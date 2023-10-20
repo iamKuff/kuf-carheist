@@ -59,4 +59,4 @@ Players can interact with markers to deliver vehicles or scrap them. The interac
 
 - [The Modding Collective Who Made BJCore Framework](https://themoddingcollective.com/)
   
-- Highly Inspired By Oosayeroo. Check out his [qb-miniheists](https://github.com/oosayeroo/qb-miniheists)
+- [Highly Inspired By Oosayeroo.](https://github.com/oosayeroo) Check out his [qb-miniheists](https://github.com/oosayeroo/qb-miniheists)
