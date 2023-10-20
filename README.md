@@ -8,13 +8,13 @@ The script comprises various functions and events, each serving a specific purpo
 
 ## Installation Steps
 ```
-1. **Download**: 
+1. Download: 
    - Get the Car Heist Script resource folder.
 
-2. **Upload**: 
+2. Upload: 
    - Upload the Car Heist Script resource to your server's resources directory.
 
-3. **Configuration and Restart**: 
+3. Configuration and Restart: 
    - Configure the script as needed, and add it to your `server.cfg` file using `ensure kuf-carheist`.
    - Restart your FiveM server to apply the changes.
 ```
