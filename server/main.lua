@@ -16,7 +16,7 @@ RegisterNetEvent('kuf-carheist:GiveTierAPrice', function()
     local Player = BJCore.Functions.GetPlayer(src)
     local payment = Config.TierAPrice
 
-    Player.Functions.AddMoney(MoneyType, payment)
+    Player.Functions.RemoveMoney(MoneyType, payment)
 end)
 
 RegisterNetEvent('kuf-carheist:GiveTierBPrice', function()
@@ -24,7 +24,7 @@ RegisterNetEvent('kuf-carheist:GiveTierBPrice', function()
     local Player = BJCore.Functions.GetPlayer(src)
     local payment = Config.TierBPrice
 
-    Player.Functions.AddMoney(MoneyType, payment)
+    Player.Functions.RemoveMoney(MoneyType, payment)
 end)
 
 RegisterNetEvent('kuf-carheist:GiveTierCPrice', function()
@@ -32,7 +32,7 @@ RegisterNetEvent('kuf-carheist:GiveTierCPrice', function()
     local Player = BJCore.Functions.GetPlayer(src)
     local payment = Config.TierCPrice
 
-    Player.Functions.AddMoney(MoneyType, payment)
+    Player.Functions.RemoveMoney(MoneyType, payment)
 end)
 
 RegisterNetEvent("kuf-carheist:getRewardA", function()
